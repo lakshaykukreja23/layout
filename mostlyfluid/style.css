@@ -1,0 +1,39 @@
+@media screen and (max-width: 575px)
+{
+.contain
+{
+	padding-left:0vmin;
+	padding-right: 0vmin;
+	padding-top:5px; 
+}
+}
+@media screen and (min-width: 576px) and (max-width:767px) 
+{
+.contain
+{
+	padding-left:0vmin;
+	padding-right: 0vmin;
+	padding-top:5px; 
+
+}
+}
+@media screen and (min-width: 768px) and (max-width:991px)
+{
+	.contain
+{
+	padding-left:0vmin;
+	padding-right: 0vmin;
+	padding-top:5px; 
+
+}
+}
+@media screen and (min-width:992px )
+{
+	.contain
+{
+	padding-top: 5px;
+	padding-left: 15vmin;
+	padding-right: 15vmin;
+
+}
+}

@@ -1,0 +1,45 @@
+@media screen and (max-width: 575px)
+{
+    .div1height
+    {
+        height: 20vmin;
+    }
+    .div23height
+    {
+        height:50vmin; 
+    }
+}
+@media screen and (min-width: 576px) and (max-width: 767px)
+{
+    .div1height
+    {
+        height:20vmin ;
+    }
+    .div23height
+    {
+        height: 50vmin;
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 991px)
+{
+    .div1height
+    {
+        height: 40vmax;
+    }
+    .div23height 
+    {
+        height: 20vmax;
+    }
+}
+
+@media screen and (min-width: 992px)
+{
+    .div1height 
+    {
+        height:40vmax;
+    }
+    .div23height 
+    {
+        height:20vmax;
+    }
+}
